@@ -1,0 +1,26 @@
+body {
+    background-image: url(https://sportishka.com/uploads/posts/2022-11/1667568988_53-sportishka-com-p-samie-krasivie-vidi-prirodi-oboi-59.jpg);
+    /* background-image: url(https://catherineasquithgallery.com/uploads/posts/2021-02/1613405846_127-p-fon-dlya-storis-bezhevii-gradient-142.jpg); */
+    text-align: center;
+    font-family: cursive;
+}
+
+h1{
+    color: rgb(76, 11, 161);
+    text-shadow: 3px 3px black;
+}
+
+h4{
+    color: rgb(252, 250, 249);
+    text-align: left; 
+}
+
+li{
+    color: rgb(252, 250, 249);
+    text-align: left; 
+    padding: 0px 10px 0px 10px;
+}
+
+ol{
+    text-align: center; 
+} 
