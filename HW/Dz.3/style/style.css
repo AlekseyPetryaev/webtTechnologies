@@ -5,6 +5,10 @@ body {
     font-family: cursive;
 }
 
+p{
+    text-align: right;
+}
+
 h1{
     color: rgb(76, 11, 161);
     text-shadow: 3px 3px black;
@@ -22,6 +26,5 @@ li{
 }
 
 ol{
-    text-align: left; 
-    padding: 0px 10px 10px 25px;
+    text-align: center; 
 } 
