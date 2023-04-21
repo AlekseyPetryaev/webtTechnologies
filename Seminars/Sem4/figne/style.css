@@ -1,0 +1,23 @@
+    html {
+    front-size: 15px;
+    front-family: 'Roboto', sans-serif;
+    background-color: rgb(70, 130, 180);
+    }
+
+    body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #B0C4DE;
+    padding: 20px 50px 50px;
+    border: border: 2px solid white;
+    }
+
+    img {
+        display: block;
+        margin: 0 auto;
+    }
+
+    p {
+    color: red;
+    padding: 5px 0;
+    }
