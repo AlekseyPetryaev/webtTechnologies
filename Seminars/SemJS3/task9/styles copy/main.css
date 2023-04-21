@@ -1,0 +1,15 @@
+.bark {
+    background-color: #333;
+    color: #fff;
+    font-family: cursive;
+}
+
+.light {
+    background-color: #ffdbdb;
+    color: #000;
+}
+
+.Theme_button{
+    color: rgb(167, 47, 0);
+    background-color: aquamarine;
+}
