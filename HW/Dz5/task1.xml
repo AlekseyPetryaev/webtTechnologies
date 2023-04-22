@@ -1,0 +1,23 @@
+<!-- Задача №1: Проверить XML, правильно ли он составлен, не имеет ли он ошибок, если есть какие-либо недочеты,
+предоставьте правильный вариант в файле 1.xml -->
+<req>
+<surname>Иванов</surname>
+<name>Иван</name>
+<patronymic>Иванович</patronymic>
+<birthdate>01.01.1990</birthdate>
+<birthplace>Москва</birthplace>
+<phone>8 926 766 48 48</phone>
+</req
+
+
+<?xml version="1.0"?>    <!--указываем формат и версию -->
+<req>                    <!--Общий тег  -->
+    <User>               <!--этот тег мне более симпатичней так как идет речь про человека -->
+        <surname>Иванов</surname>
+        <name>Иван</name>
+        <patronymic>Иванович</patronymic>
+        <birthdate>01.01.1990</birthdate>
+        <city>Москва</city>                 <!-- тег birthdate был заменен на тег city -->
+        <phone>8 926 766 48 48</phone>
+    </User>
+</req>                    <!--Общий тег не был дописан  -->
