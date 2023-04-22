@@ -1,0 +1,15 @@
+Get https://reqres.in/api/users
+
+###
+
+GET https://nalog.ru
+
+### 
+
+POST https://reqres.in/api/users
+
+Content-Type: application/json
+{
+    "name": "Rick",
+    "number": "89000000000"
+}

@@ -1,0 +1,81 @@
+<!-- Создать XML Документ на основе списка учашизся которые содержат следуюшие данные 
+(!Обратите внимание что данные из столбца!!) "ФИО","Класс","Адрес прописки","Необходимо разделить" -->
+<?xml version="1.0"?>      
+<Students>
+    <User>
+        <initials>
+            <name>Анна </name>
+            <second_name>Карпова</second_name>
+            <Last_name>Александровна</Last_name>
+        </initials>
+        <data_of_birthday>2006</data_of_birthday>
+        <group>
+            <number_of_group>8</number_of_group>
+            <latter_of_group>а</latter_of_group>
+        </group>
+        <adress>
+            <city>Москва</city>
+            <street>Тверская</street>
+            <house>2</house>
+            <flat>11</flat>
+            
+        </adress>
+    </User>
+    <User>
+        <initials>
+            <name>Михаил</name>
+            <second_name>Патапыч</second_name>
+            <Last_name>Иванович</Last_name>
+        </initials>
+        <data_of_birthday>2014</data_of_birthday>
+        <group>
+            <number_of_group>2</number_of_group>
+            <latter_of_group>б</latter_of_group>
+        </group>
+        <adress>
+            <city>Москва</city>
+            <street>Лененградское шоссе</street>
+            <house>10</house>
+            <flat>56</flat>
+            
+        </adress>
+    </User>
+    <User>
+        <initials>
+            <name>Алла</name>
+            <second_name>Андреева</second_name>
+            <Last_name>Петровна</Last_name>
+        </initials>
+        <data_of_birthday>2015</data_of_birthday>
+        <group>
+            <number_of_group>1</number_of_group>
+            <latter_of_group>г</latter_of_group>
+        </group>
+        <adress>
+            <city>Москва</city>
+            <street>Дмитровское шоссе</street>
+            <house>107</house>
+            <flat>2</flat>
+            
+        </adress>
+    </User>
+    <User>
+        <initials>
+            <name></name>
+            <second_name></second_name>
+            <Last_name></Last_name>
+        </initials>
+        <data_of_birthday></data_of_birthday>
+        <group>
+            <number_of_group></number_of_group>
+            <latter_of_group></latter_of_group>
+        </group>
+        <adress>
+            <city></city>
+            <street></street>
+            <house></house>
+            <flat></flat>
+
+        </adress>
+    </User>
+</Students>

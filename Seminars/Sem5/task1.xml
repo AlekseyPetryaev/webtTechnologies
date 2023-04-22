@@ -1,0 +1,38 @@
+<?xml version="1.0"?>      <!-- Создать мини библиотеку  -->
+<catalog> 
+    <book>
+        <title>Ни сы</title>
+        <author>Томас Юдисан</author>
+        <poges>310</poges>
+        <date>2020</date>
+        <price>800</price>
+    </book>
+    <book>
+        <title>Не тупи</title>
+        <author>Эзинг Хаувер</author>
+        <poges>250</poges>
+        <date>2005</date>
+        <price>430</price>
+    </book>
+    <book>
+        <title>НЕ ной</title>
+        <author>Джордж Деп</author>
+        <poges>279</poges>
+        <date>2006</date>
+        <price>450</price>
+    </book>
+    <book>
+        <title>НИ зя</title>
+        <author>Ямана Куасаки</author>
+        <poges>300</poges>
+        <date>2007</date>
+        <price>150</price>
+    </book>
+    <book>
+        <title>Люби</title>
+        <author>Фрося Ивановна</author>
+        <poges>230</poges>
+        <date>1991</date>
+        <price>102</price>
+    </book>
+</catalog>
