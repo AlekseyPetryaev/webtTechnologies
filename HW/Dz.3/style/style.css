@@ -28,3 +28,17 @@ li{
 ol{
     text-align: center; 
 } 
+
+q{
+    color: rgb(252, 250, 249);
+    text-align: left;
+}
+
+a{
+color: rgb(252, 250, 249);
+text-align: right;
+}
+
+legend{
+color: rgb(252, 250, 249);
+}
